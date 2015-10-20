@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://app.ctcchina.org/ctcApp/apptool/app/appversion/version/appIos?attachId=21</string>
+                        <string>http://app.fychina.org/fyApp/apptool/app/appversion/version/appIos?attachId=21</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.shstzz.yuyu9</string>
+                    <string>com.shstzz.yuyu10</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>迎智APP</string>
+                    <string>菲阳APP</string>
                 </dict>
             </dict>
         </array>
